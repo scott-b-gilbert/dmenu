@@ -4,3 +4,4 @@ dmenu
 *.o
 stest
 *.orig
+*.rej
